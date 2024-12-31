@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu
+    xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/nav_recommend"
+        android:icon="@drawable/recommendation"
+        android:layout_width="wrap_content"
+        android:layout_height="match_parent"
+        android:title="Recommend"/>
+
+    <item
+        android:id="@+id/nav_food"
+        android:title="Food"
+        android:icon="@drawable/food"
+        android:layout_width="wrap_content"
+        android:layout_height="match_parent" />
+
+    <item
+        android:id="@+id/tab_dessert"
+        android:title="Dessert"
+        android:icon="@drawable/dessert"
+        android:layout_width="wrap_content"
+        android:layout_height="match_parent" />
+
+    <item
+        android:id="@+id/nav_drink"
+        android:title="Drink"
+        android:icon="@drawable/drink"
+        android:layout_width="wrap_content"
+        android:layout_height="match_parent" />
+</menu>

@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "177308730051",
+    "project_id": "resepmakanan-432f0",
+    "storage_bucket": "resepmakanan-432f0.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:177308730051:android:4aa682a352d093cf765876",
+        "android_client_info": {
+          "package_name": "com.example.utsmobile"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDlFL8SUpGnlWyxblOpks4K2uKr7Ie-F1E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

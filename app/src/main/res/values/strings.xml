@@ -1,0 +1,32 @@
+<resources>
+<string name="makanan_name">Nama Makanan</string>
+ <string name="makanan_description">Deskripsi</string>
+    <string-array name="data_name">
+        <item>Kaledo</item>
+        <item>Mie Aceh</item>
+        <item>Uta Dada</item>
+        <item>Kapurung</item>
+        <item>Bubur Manado</item>
+        <item>Tempe</item>
+        <item>Gado-Gado</item>
+    </string-array>
+    
+    <string-array name="data_description">
+        <item>Kaki Lembu Donggala atau yang lebih dikenal dengan nama Kaledo  merupakan makanan khas masyarakat Donggala yang terletak di provinsi Sulawesi Tengah, tepatnya di kota Palu. Makanan ini mirip dengan sup buntut, bedanya tulangnya dari kaki lembu dan disajikan bukan dengan nasi melainkan dengan ubi. Tulangnya itu sendiri adalah ruas tulang lutut yang masih penuh dengan sum-sum.</item>
+        <item>Mi aceh adalah masakan mi pedas khas Aceh di Indonesia. Mi kuning tebal dengan irisan daging sapi, daging kambing atau makanan laut (udang dan cumi) disajikan dalam sup sejenis kari yang gurih dan pedas. Mi aceh biasanya ditaburi dengan bawang goreng dan disajikan bersama emping, potongan bawang merah, mentimun, dan jeruk nipis. Mi aceh biasanya disajikan dalam tiga bentuk yaitu mi kuah, mi goreng basah, dan mi goreng kering.</item>
+        <item>Nama Uta Dada berasal dari bahasa Kaili, yang artinya adalah kuah santan. Uta dada adalah sebuah makanan khas dari tanah kaili yang terbuat dari kuah santan dan daging ayam sebagai bahan baku utamanya. Masakan uta dada bisa dibilang mirip dengan opor, namun uta dada memiliki cita rasa khas dan pastinya sangat sedap untuk disantap bersama keluarga dirumah.</item>
+        <item>Kapurung adalah salah satu makanan tradisional khas dari Sulawesi Selatan terutama di wilayah Luwu Raya dan juga Toraja (seperti Kota Palopo, Kabupaten Luwu, Luwu Utara, Luwu Timur, dan Luwu Tengah), serta di Tawau, Sabah, Malaysia, yang didiami oleh mayoritas masyarakat Sulawesi Selatan. Makanan ini terbuat dari sari atau tepung sagu dan dimasak dengan campuran ikan atau daging ayam serta aneka sayuran.</item>
+        <item>Tinutuan atau Bubur Manado adalah salah satu makanan khas Indonesia dari Manado, Sulawesi Utara. Ada juga yang mengatakan tinutuan adalah makanan khas Minahasa, Sulawesi Utara. Tinutuan merupakan campuran berbagai macam sayuran yaitu labu kuning yang juga disebut sambiki, beras, singkong, bayam, kangkung, daun gedi, jagung, dan kemang</item>
+        <item>Tempe adalah makanan khas Indonesia yang terbuat dari fermentasi kedelai. tempe merupakan makanan tradisional yang berasal dari Indonesia. Makanan tradisonal ini sudah dikenal sejak berabad-abad lalu, dalam tatanan budaya makan masyarakat Suku Jawa, khususnya di Yogyakarta dan Surakarta.</item>
+        <item>Gado-gado merupakan salah satu makanan khas Indonesia yang berasal dari daerah jawa timur, Surabaya. Gado-gado adalah makanan yang terdiri atas sayur-sayuran, kentang, tempe, tahu, telur rebus, dan lain-lain diberi bumbu sambal kacang dan sebagainya.</item>
+    </string-array>
+    <integer-array name="data_photo">
+        <item>@drawable/kaledo</item>
+        <item>@drawable/mieaceh</item>
+        <item>@drawable/utadada</item>
+        <item>@drawable/kapurung</item>
+        <item>@drawable/bubur</item>
+        <item>@drawable/tempe</item>
+        <item>@drawable/gado</item>
+    </integer-array>
+</resources>
